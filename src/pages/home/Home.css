@@ -1,0 +1,46 @@
+.hero-text-wrapper {
+    padding-inline: 2rem;
+    font-family: "Carrois";
+    font-size: 1.5rem;
+}
+
+.hero-text-wrapper p {
+    margin-top: 0;
+}
+
+.hero-text-wrapper p:nth-of-type(2) {
+    margin-bottom: 0;
+}
+
+.play-icon-wrapper {
+    margin: 0 auto 1rem auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 2px 3px 4px 3px rgba(0, 0, 0, 0.25);
+    animation: pulse 2s infinite;
+    cursor: pointer;
+}
+
+.play-icon {
+    padding: 0.9rem 0.7rem 0.9rem 0.9rem;
+    width: 40px;
+    border-radius: 50%;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}

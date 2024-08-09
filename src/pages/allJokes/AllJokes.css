@@ -1,0 +1,20 @@
+.answer {
+    display: flex;
+    flex: 1;
+    /* Macht diesen Container flexibel */
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.white-container.expanded {
+    /* max-height: 200px; */
+    /* Zielgröße (angepasst an die Höhe des Texts) */
+    max-height: none;
+    height: auto;
+}
+
+.white-container p {
+    margin: 0;
+    cursor: pointer;
+}

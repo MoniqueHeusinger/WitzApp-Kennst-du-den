@@ -1,0 +1,25 @@
+.white-container {
+    padding: 1rem 2rem;
+    display: grid;
+    grid-template-columns: minmax(200px, 1fr);
+    gap: 1rem;
+    background-color: white;
+    font-family: "Carrois";
+    color: black;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    font-size: 1.5rem;
+    max-height: 80px;
+    /* Anfangsgröße (angepasst an das Fragezeichen) */
+    /* Achtung: bei /start ist ein kleiner oranger Rahmen deswegen!!! */
+
+
+    transition: max-height 0.5s ease-out;
+    /* Transition-Effekt für die Größe */
+}
+
+.category-item {
+    margin: 0;
+    padding-block: 0.5rem;
+    border-radius: 20px;
+}

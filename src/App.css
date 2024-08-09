@@ -1,0 +1,126 @@
+/* ======================
+    General
+========================= */
+
+@font-face {
+  font-family: "Carrois";
+  src: url("./assets/font/CarroisGothicSC-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Lobster-Bd";
+  src: url("./assets/font/Lobster-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Lobster";
+  src: url("./assets/font/LobsterTwo-Regular.ttf");
+}
+
+:root {
+  --dark-blue: #044ACD;
+  --orange: #FF8C00;
+  --fuchsia: #CB0081;
+  --light-blue: #00ABD6;
+  --yellow: #F2B500;
+  --violet: #9900DB;
+  --green: #81C700;
+}
+
+body {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Carrois";
+  text-align: center;
+  color: white;
+}
+
+.full-height {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+}
+
+.flex-between {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.main-joke {
+  padding-inline: 2rem;
+  height: 100%;
+  align-content: center;
+  font-size: 1.8rem;
+  line-height: 1.5;
+}
+
+.btn {
+  margin-bottom: 1rem;
+  padding: 0.5rem 1.2rem;
+  border-radius: 20px;
+  font-size: 1.3rem;
+  font-family: "Carrois";
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-container {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.border-test {
+  border: 3px solid red;
+}
+
+/* ======================
+    Background colors
+========================= */
+.bg-dark-blue {
+  background-color: var(--dark-blue);
+}
+
+.bg-orange {
+  background-color: var(--orange);
+}
+
+.bg-fuchsia {
+  background-color: var(--fuchsia);
+}
+
+.bg-light-blue {
+  background-color: var(--light-blue);
+}
+
+.bg-yellow {
+  background-color: var(--yellow);
+}
+
+.bg-violet {
+  background-color: var(--violet);
+}
+
+.bg-green {
+  background-color: var(--green)
+}
+
+/* ======================
+    Text
+========================= */
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h4 {
+  font-family: "Lobster";
+  font-size: 1.3rem;
+  letter-spacing: 2px;
+}
