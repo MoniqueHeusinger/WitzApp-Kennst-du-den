@@ -1,8 +1,15 @@
-# React + Vite
+## "Kennst du den ..?" - Joke Collection App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and light collection of jokes to cheer you up.
+__________
 
-Currently, two official plugins are available:
+# History of the app: 
+The teenage son of a good friend had a serious accident and has been in hospital ever since. When I heard that his mental state was very bad and he was very sad, I looked for a way to put a smile back on his face. 
+That's how I came up with the idea for this app - a collection of various little jokes in the following categories:
+- classic jokes
+- riddles
+- Chuck Norris jokes ;)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I really like the result and I would like to expand the joke collection over time.
+
+Note: all jokes used come from the following website: www.schreiben.net
