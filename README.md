@@ -1,6 +1,8 @@
 ## "Kennst du den ..?" - Joke Collection App
 
 A fun and light collection of jokes to cheer you up.
+
+👉 https://kennst-du-den.netlify.app/
 __________
 
 # History of the app: 
@@ -13,3 +15,13 @@ That's how I came up with the idea for this app - a collection of various little
 I really like the result and I would like to expand the joke collection over time.
 
 Note: all jokes used come from the following website: www.schreiben.net
+
+__________
+
+# App impressions
+
+<img src="./src/assets/img/screenshots/home-screenshot.png" width="300">
+<img src="./src/assets/img/screenshots/category-screenshot.png" width="300">
+<img src="./src/assets/img/screenshots/riddle-screenshot.png" width="300">
+<img src="./src/assets/img/screenshots/chuck-norris-screenshot.png" width="300">
+<img src="./src/assets/img/screenshots/menu-screenshot.png" width="300">
