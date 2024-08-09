@@ -20,8 +20,8 @@ __________
 
 # App impressions
 
-<img src="./src/assets/img/screenshots/home-screenshot.png" width="300">
-<img src="./src/assets/img/screenshots/category-screenshot.png" width="300">
-<img src="./src/assets/img/screenshots/riddle-screenshot.png" width="300">
-<img src="./src/assets/img/screenshots/chuck-norris-screenshot.png" width="300">
-<img src="./src/assets/img/screenshots/menu-screenshot.png" width="300">
+<img src="./src/assets/img/screenshots/home-screenshot.png" width="200">
+<img src="./src/assets/img/screenshots/category-screenshot.png" width="200">
+<img src="./src/assets/img/screenshots/riddle-screenshot.png" width="200">
+<img src="./src/assets/img/screenshots/chuck-norris-screenshot.png" width="200">
+<img src="./src/assets/img/screenshots/menu-screenshot.png" width="200">
